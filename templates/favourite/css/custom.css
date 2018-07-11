@@ -75,7 +75,8 @@ img {
 
 /* Keep the background color in the custom.css instead of changing here and in the template view */
 #fav-footerwrap.fav-module-block-color {
-    background-color: #2F9EC2 !important;
+    /*background-color: #2F9EC2 !important;*/
+    background-color: #547b74 !important;
 }
 
 div[id^="fav-breadcrumbs"].favth-content-block,
@@ -225,8 +226,10 @@ img.fav-tags-img {
 /* favglyph */
 .favstyle div[id^="favglyph-icon"],
 .favstyle div[id*=" favglyph-icon"] {
-    background-color: #2F9EC2 !important;
-    border: 1px solid #2F9EC2 !important;
+    /*background-color: #2F9EC2 !important;*/
+    background-color: #9abe6c !important;
+  	/*border: 1px solid #2F9EC2 !important;*/
+  	border: 1px solid #9abe6c !important;
 }
 
 /* favglyph-box */
